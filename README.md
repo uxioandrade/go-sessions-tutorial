@@ -1,4 +1,4 @@
-This is a repository for the following tutorial: [](https://medium.com/@uxioandrade/implementing-session-caching-in-go-with-gin-sessions-redis-and-docker-838608f6cca)
+This is a repository for the following tutorial: https://medium.com/@uxioandrade/implementing-session-caching-in-go-with-gin-sessions-redis-and-docker-838608f6cca
 
 ### Setting up
 
